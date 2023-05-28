@@ -1,0 +1,9 @@
+ivan ivanovich ivanov 01/01/2000 5555 
+ben benovich benov 01/02/2001 66666 
+john johnovich johnov 02/03/2003 77777 
+john benovich durov 01/02/2000 8866 
+ivan petrovich pupkin 04/12/2000 4561 
+ben benov 01/08/2001 66666 
+john andreevich johnov 02/07/2003 5577 
+john ivanovich durov 08/02/2000 8877
+raf ivanovich rafiev 06/06/2003 5522 
